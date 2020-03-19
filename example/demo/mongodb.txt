@@ -1,0 +1,2 @@
+进入mongodb       mongo
+查看所有库       show dbs;
